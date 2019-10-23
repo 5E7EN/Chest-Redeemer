@@ -1,0 +1,24 @@
+{
+  "name": "Chest Redeemer",
+  "version": "0.0.2",
+  "description": "Automatically redeems channel point bonus chests on Twitch when the option is available.",
+  "homepage_url": "https://5E7EN.me/chestredeemer",
+  "permissions": ["activeTab", "storage", "https://www.twitch.tv/*"],
+  "page_action": {
+    "default_icon": {
+      "16": "images/chest.png",
+      "32": "images/chest.png",
+      "48": "images/chest.png",
+      "128": "images/chest.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.twitch.tv/*"
+      ],
+      "js": ["src/inject.js"],
+	 "run_at":"document_idle"}
+  ],
+  "manifest_version": 2
+}
