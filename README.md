@@ -1,6 +1,8 @@
 # Chest Redeemer
 
-<b>[View it on the Chrome Web Store](https://chrome.google.com/webstore/detail/chest-redeemer/ampjopbjfelpdciopicpkmiobbokbgad)</b>
+<b>WARNING! Script automation such as this, is against the [Twitch Terms of Service](https://www.twitch.tv/p/legal/terms-of-service) agreement as noted in [Section 8 Part XI](https://i.imgur.com/6z0uZSq.png).
+<br>
+By using this program, you hereby take full responsibility of any action taken against your account for misuse of this application.</b>
 
 # About
 
@@ -10,7 +12,9 @@ You can simply AFK in a channel (with the tab opened and active) and the extensi
 
 # How to Use
 
-You may install the app through the [Chrome Web Store](https://chrome.google.com/webstore/detail/chest-redeemer/ampjopbjfelpdciopicpkmiobbokbgad) seamlessly, or you can load it into chrome as an unpacked extension manually.
+~~You may install the app through the [Chrome Web Store](https://chrome.google.com/webstore/detail/chest-redeemer/ampjopbjfelpdciopicpkmiobbokbgad).~~
+<br>
+Alternatively, you can load it into chrome as an unpacked extension manually.
 <br>
 <br>
 To do so, follow these relatively simple steps:
