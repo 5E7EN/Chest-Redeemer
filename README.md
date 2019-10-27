@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+
 # Chest Redeemer
 
 <b>WARNING! Script automation such as this, is against the [Twitch Terms of Service](https://www.twitch.tv/p/legal/terms-of-service) agreement as noted in [Section 8 Part XI](https://i.imgur.com/6z0uZSq.png).
